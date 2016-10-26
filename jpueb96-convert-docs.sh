@@ -16,3 +16,4 @@ pandoc -o only-when-i-dance.odt only-when-i-dance.md
 pandoc -o only-when-i-dance.pdf only-when-i-dance.md
 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
+echo "Converting 'Only When I Dance' to HTML, DOCX, ODT, PDF complete."
